@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y668b/KLvrc=",
+  "dgSpecHash": "yKGzIhfy5j8=",
   "success": true,
-  "projectFilePath": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Api\\Siniestros.Api.csproj",
+  "projectFilePath": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Api\\Siniestros.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diesg\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\diesg\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

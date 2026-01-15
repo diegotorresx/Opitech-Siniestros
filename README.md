@@ -1,14 +1,14 @@
 # Siniestros API (.NET 8) – Prueba Técnica
 
 API REST para registrar siniestros viales y consultarlos por departamento, rango de fechas o combinando ambos filtros, con paginación.  
-Implementación en .NET 8 aplicando Clean Architecture, DDD (modelo de dominio con invariantes), CQRS con MediatR, Repository pattern, validación con FluentValidation y manejo de errores con ProblemDetails.
+La solución está desarrollada en .NET 8 aplicando Clean Architecture, Domain-Driven Design (DDD) con invariantes de dominio, CQRS con MediatR, Repository pattern, validación con FluentValidation y manejo de errores estandarizado con ProblemDetails.
 
 ---
 
 ## 1. Alcance funcional
 
 ### Escritura
-- Registrar siniestros con:
+- Registro de siniestros viales con la siguiente información:
   - Identificador único (GUID)
   - Fecha y hora del evento (`DateTimeOffset`)
   - Departamento
@@ -19,10 +19,10 @@ Implementación en .NET 8 aplicando Clean Architecture, DDD (modelo de dominio c
   - Descripción opcional
 
 ### Lectura
-- Consultar siniestros por:
+- Consulta de siniestros por:
   - Departamento
-  - Rango de fechas (from/to)
-  - Combinación de ambos
+  - Rango de fechas (`from` / `to`)
+  - Combinación de ambos filtros
 - Paginación:
   - `pageNumber` (>= 1)
   - `pageSize` (1..100)
@@ -60,17 +60,17 @@ Dependencias:
 ## 3. Requisitos
 
 - .NET SDK 8.x
-- SQL Server (LocalDB / Express / Developer / Standard)
-- (Opcional) SSMS para ejecutar scripts SQL
+- SQL Server (LocalDB, Express, Developer o Standard)
+- (Opcional) SQL Server Management Studio (SSMS)
 
 ---
 
 ## 4. Base de datos (SQL Server)
 
-Se incluyen scripts en `/sql`:
+En la carpeta `/sql` se incluyen los siguientes scripts:
 
-- `sql/01_create_database.sql` (crea base + tablas + índices)
-- `sql/02_seed_data.sql` (inserta datos de prueba)
+- `01_create_database.sql`
+- `02_seed_data.sql`
 
 ### Ejecución
 1. Abrir SSMS y ejecutar en orden:
@@ -81,7 +81,7 @@ Se incluyen scripts en `/sql`:
 
 ## 5. Configuración
 
-En `Siniestros.Api/appsettings.json`:
+Editar `Siniestros.Api/appsettings.json` y configurar la cadena de conexión.
 
 ```json
 {
@@ -89,3 +89,39 @@ En `Siniestros.Api/appsettings.json`:
     "DefaultConnection": "Server=YOUR_SERVER;Database=SiniestrosDb;Trusted_Connection=True;TrustServerCertificate=True;"
   }
 }
+```
+
+## 6. Pasos para ejecutar la solución
+
+Desde la raíz del repositorio, ejecutar los siguientes comandos:
+
+```bash
+dotnet restore
+dotnet build
+dotnet run --project Siniestros.Api
+```
+
+La aplicación iniciará y quedará disponible en:
+
+http://localhost:5000
+https://localhost:5001
+
+Swagger:
+- http://localhost:5000/swagger
+- https://localhost:5001/swagger
+
+---
+
+## 7. Pruebas unitarias
+
+La solución incluye pruebas unitarias para el dominio, validaciones y casos de uso.
+
+Para ejecutarlas:
+
+```bash
+dotnet test
+```
+
+## Autor
+
+Diego Alexander Torres Forero
