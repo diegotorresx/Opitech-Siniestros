@@ -103,8 +103,8 @@ dotnet run --project Siniestros.Api
 
 La aplicación iniciará y quedará disponible en:
 
-http://localhost:5000
-https://localhost:5001
+- http://localhost:5000
+- https://localhost:5001
 
 Swagger:
 - http://localhost:5000/swagger
