@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\Siniestros.Domain.csproj": {}
+    "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\Siniestros.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\Siniestros.Domain.csproj": {
+    "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\Siniestros.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\Siniestros.Domain.csproj",
+        "projectUniqueName": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\Siniestros.Domain.csproj",
         "projectName": "Siniestros.Domain",
-        "projectPath": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\Siniestros.Domain.csproj",
+        "projectPath": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\Siniestros.Domain.csproj",
         "packagesPath": "C:\\Users\\diesg\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\obj\\",
+        "outputPath": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
