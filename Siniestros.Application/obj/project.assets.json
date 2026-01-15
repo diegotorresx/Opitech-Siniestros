@@ -507,11 +507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Application\\Siniestros.Application.csproj",
+      "projectUniqueName": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Application\\Siniestros.Application.csproj",
       "projectName": "Siniestros.Application",
-      "projectPath": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Application\\Siniestros.Application.csproj",
+      "projectPath": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Application\\Siniestros.Application.csproj",
       "packagesPath": "C:\\Users\\diesg\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Application\\obj\\",
+      "outputPath": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -533,8 +533,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\Siniestros.Domain.csproj": {
-              "projectPath": "C:\\Proyect\\Procesos de selección\\Opitech\\Siniestros.Domain\\Siniestros.Domain.csproj"
+            "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\Siniestros.Domain.csproj": {
+              "projectPath": "C:\\Proyect\\Procesos de selección\\OpitechGit\\Siniestros.Domain\\Siniestros.Domain.csproj"
             }
           }
         }
