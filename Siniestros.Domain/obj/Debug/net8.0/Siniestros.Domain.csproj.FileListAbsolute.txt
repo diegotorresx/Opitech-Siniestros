@@ -1,0 +1,11 @@
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\bin\Debug\net8.0\Siniestros.Domain.deps.json
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\bin\Debug\net8.0\Siniestros.Domain.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\bin\Debug\net8.0\Siniestros.Domain.pdb
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.AssemblyInfoInputs.cache
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.AssemblyInfo.cs
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.csproj.CoreCompileInputs.cache
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\refint\Siniestros.Domain.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.pdb
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Domain\obj\Debug\net8.0\ref\Siniestros.Domain.dll

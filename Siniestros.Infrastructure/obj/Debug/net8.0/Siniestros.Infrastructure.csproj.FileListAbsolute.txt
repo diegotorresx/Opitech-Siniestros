@@ -1,0 +1,17 @@
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Infrastructure.deps.json
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Infrastructure.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Infrastructure.pdb
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Application.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Domain.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Application.pdb
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\bin\Debug\net8.0\Siniestros.Domain.pdb
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.csproj.AssemblyReference.cache
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.AssemblyInfo.cs
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestr.64E146DA.Up2Date
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\refint\Siniestros.Infrastructure.dll
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\Siniestros.Infrastructure.pdb
+C:\Proyect\Procesos de selección\Opitech\Siniestros.Infrastructure\obj\Debug\net8.0\ref\Siniestros.Infrastructure.dll
